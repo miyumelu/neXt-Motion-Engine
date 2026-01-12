@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\deniz\\Documents\\GitHub\\neXt-Motion-Engine\\neXt Motion Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8210F93-C26F-46D2-828D-ED2A79167E03}|neXt Motion Engine\\neXt Motion Engine.vbproj|c:\\users\\deniz\\documents\\github\\next-motion-engine\\next motion engine\\next motion engine\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{B8210F93-C26F-46D2-828D-ED2A79167E03}|neXt Motion Engine\\neXt Motion Engine.vbproj|solutionrelative:next motion engine\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{CA73602A-0548-9A77-5240-D4D2CD66D6B1}|neXt Motion Engine\\neXt Motion Engine.vbproj|c:\\users\\deniz\\documents\\github\\next-motion-engine\\next motion engine\\next motion engine\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA73602A-0548-9A77-5240-D4D2CD66D6B1}|neXt Motion Engine\\neXt Motion Engine.vbproj|solutionrelative:next motion engine\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8210F93-C26F-46D2-828D-ED2A79167E03}|neXt Motion Engine\\neXt Motion Engine.vbproj|c:\\users\\deniz\\documents\\github\\next-motion-engine\\next motion engine\\next motion engine\\next motion engine.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B8210F93-C26F-46D2-828D-ED2A79167E03}|neXt Motion Engine\\neXt Motion Engine.vbproj|solutionrelative:next motion engine\\next motion engine.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{CA73602A-0548-9A77-5240-D4D2CD66D6B1}|neXt Motion Engine\\neXt Motion Engine.vbproj|c:\\users\\deniz\\documents\\github\\next-motion-engine\\next motion engine\\next motion engine\\next motion engine.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA73602A-0548-9A77-5240-D4D2CD66D6B1}|neXt Motion Engine\\neXt Motion Engine.vbproj|solutionrelative:next motion engine\\next motion engine.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8210F93-C26F-46D2-828D-ED2A79167E03}|neXt Motion Engine\\neXt Motion Engine.vbproj|c:\\users\\deniz\\documents\\github\\next-motion-engine\\next motion engine\\next motion engine\\next motion engine.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8210F93-C26F-46D2-828D-ED2A79167E03}|neXt Motion Engine\\neXt Motion Engine.vbproj|solutionrelative:next motion engine\\next motion engine.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CA73602A-0548-9A77-5240-D4D2CD66D6B1}|neXt Motion Engine\\neXt Motion Engine.vbproj|c:\\users\\deniz\\documents\\github\\next-motion-engine\\next motion engine\\next motion engine\\next motion engine.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CA73602A-0548-9A77-5240-D4D2CD66D6B1}|neXt Motion Engine\\neXt Motion Engine.vbproj|solutionrelative:next motion engine\\next motion engine.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "neXt Motion Engine",
+              "DocumentIndex": 1,
+              "Title": "neXt Motion Engine.vbproj",
               "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\neXt-Motion-Engine\\neXt Motion Engine\\neXt Motion Engine\\neXt Motion Engine.vbproj",
               "RelativeDocumentMoniker": "neXt Motion Engine\\neXt Motion Engine.vbproj",
               "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\neXt-Motion-Engine\\neXt Motion Engine\\neXt Motion Engine\\neXt Motion Engine.vbproj",
               "RelativeToolTip": "neXt Motion Engine\\neXt Motion Engine.vbproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2026-01-12T00:52:27.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T00:52:27.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "neXt Motion Engine",
               "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\neXt-Motion-Engine\\neXt Motion Engine\\neXt Motion Engine\\neXt Motion Engine.vbproj",
               "RelativeDocumentMoniker": "neXt Motion Engine\\neXt Motion Engine.vbproj",
               "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\neXt-Motion-Engine\\neXt Motion Engine\\neXt Motion Engine\\neXt Motion Engine.vbproj",
               "RelativeToolTip": "neXt Motion Engine\\neXt Motion Engine.vbproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2026-01-12T00:52:10Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T00:52:10Z"
             },
             {
               "$type": "Document",
@@ -57,7 +55,7 @@
               "RelativeDocumentMoniker": "neXt Motion Engine\\Main.vb",
               "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\neXt-Motion-Engine\\neXt Motion Engine\\neXt Motion Engine\\Main.vb*",
               "RelativeToolTip": "neXt Motion Engine\\Main.vb*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-01-12T00:50:33.315Z",
               "EditorCaption": ""

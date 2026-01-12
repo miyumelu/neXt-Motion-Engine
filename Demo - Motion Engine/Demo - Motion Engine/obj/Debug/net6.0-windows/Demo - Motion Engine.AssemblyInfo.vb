@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Demo - Motion Engine"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e136abfe946b3c20675296a70cb79fa92ec10e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Demo - Motion Engine"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Demo - Motion Engine"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

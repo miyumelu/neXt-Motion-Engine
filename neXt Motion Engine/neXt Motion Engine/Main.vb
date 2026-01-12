@@ -86,4 +86,40 @@ Public Class XME
 
         Await PlayRawDataAsync(samples)
     End Function
+
+    Public Async Function MotionPeak(freqA As Double, freqB As Double, freqC As Double, freqD As Double, durationMs As Integer) As Task
+        Dim halfDuration As Integer = durationMs \ 2
+        Dim numSamplesHalf As Integer = CInt(SampleRate * (halfDuration / 1000.0))
+        Dim totalSamples As Integer = numSamplesHalf * 2
+
+        Dim samples(totalSamples - 1) As Short
+
+        Await Task.Run(Sub()
+                           Dim phase As Double = 0
+
+                           For i As Integer = 0 To numSamplesHalf - 1
+                               Dim progress As Double = i / (numSamplesHalf - 1)
+                               Dim currentFreq As Double = freqA + (freqB - freqA) * progress
+                               Dim currentVol As Double = 0 + (100 - 0) * progress
+                               Dim amplitude As Double = (currentVol / 100.0) * Short.MaxValue
+
+                               samples(i) = CShort(amplitude * Math.Sin(phase))
+
+                               phase += 2 * Math.PI * currentFreq / SampleRate
+                               If phase > 2 * Math.PI Then phase -= 2 * Math.PI
+                           Next
+
+                           For i As Integer = 0 To numSamplesHalf - 1
+                               Dim progress As Double = i / (numSamplesHalf - 1)
+                               Dim currentFreq As Double = freqC + (freqD - freqC) * progress
+                               Dim currentVol As Double = 100 + (0 - 100) * progress
+                               Dim amplitude As Double = (currentVol / 100.0) * Short.MaxValue
+                               samples(numSamplesHalf + i) = CShort(amplitude * Math.Sin(phase))
+
+                               phase += 2 * Math.PI * currentFreq / SampleRate
+                               If phase > 2 * Math.PI Then phase -= 2 * Math.PI
+                           Next
+                       End Sub)
+        Await PlayRawDataAsync(samples)
+    End Function
 End Class

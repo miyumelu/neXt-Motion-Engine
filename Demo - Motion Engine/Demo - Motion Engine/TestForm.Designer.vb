@@ -27,6 +27,7 @@ Partial Class TestForm
         Dot_Button = New Button()
         Standard_Button = New Button()
         MO_Check = New CheckBox()
+        Peak_Button = New Button()
         SuspendLayout()
         ' 
         ' Accel_Button
@@ -75,11 +76,21 @@ Partial Class TestForm
         MO_Check.Text = "Vibration on mouse hover"
         MO_Check.UseVisualStyleBackColor = True
         ' 
+        ' Peak_Button
+        ' 
+        Peak_Button.Location = New Point(516, 12)
+        Peak_Button.Name = "Peak_Button"
+        Peak_Button.Size = New Size(120, 40)
+        Peak_Button.TabIndex = 5
+        Peak_Button.Text = "Peak"
+        Peak_Button.UseVisualStyleBackColor = True
+        ' 
         ' TestForm
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(524, 88)
+        ClientSize = New Size(649, 88)
+        Controls.Add(Peak_Button)
         Controls.Add(MO_Check)
         Controls.Add(Standard_Button)
         Controls.Add(Dot_Button)
@@ -97,5 +108,6 @@ Partial Class TestForm
     Friend WithEvents Dot_Button As Button
     Friend WithEvents Standard_Button As Button
     Friend WithEvents MO_Check As CheckBox
+    Friend WithEvents Peak_Button As Button
 
 End Class

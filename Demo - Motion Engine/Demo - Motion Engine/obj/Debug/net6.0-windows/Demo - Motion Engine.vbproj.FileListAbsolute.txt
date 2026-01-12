@@ -18,3 +18,4 @@ C:\Users\deniz\Documents\GitHub\neXt-Motion-Engine\Demo - Motion Engine\Demo - M
 C:\Users\deniz\Documents\GitHub\neXt-Motion-Engine\Demo - Motion Engine\Demo - Motion Engine\obj\Debug\net6.0-windows\Demo - Motion Engine.genruntimeconfig.cache
 C:\Users\deniz\Documents\GitHub\neXt-Motion-Engine\Demo - Motion Engine\Demo - Motion Engine\obj\Debug\net6.0-windows\ref\Demo - Motion Engine.dll
 C:\Users\deniz\Documents\GitHub\neXt-Motion-Engine\Demo - Motion Engine\Demo - Motion Engine\obj\Debug\net6.0-windows\Demo___Motion_Engine.TestForm.resources
+C:\Users\deniz\Documents\GitHub\neXt-Motion-Engine\Demo - Motion Engine\Demo - Motion Engine\obj\Debug\net6.0-windows\Demo - Motion Engine.sourcelink.json
